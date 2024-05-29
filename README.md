@@ -6,7 +6,7 @@
 
 # 📝 Description
 
-## ⚡ Demo application to calculate investments.. (TODO)
+## ⚡ Demo application to calculate your investments.
 
 # 🛠 Tech Stack
 

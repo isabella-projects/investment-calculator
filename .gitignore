@@ -37,6 +37,9 @@ yarn-error.log
 testem.log
 /typings
 
+# Mockup
+*design_mockup
+
 # System files
 .DS_Store
 Thumbs.db
