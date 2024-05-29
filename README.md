@@ -8,6 +8,8 @@
 
 ## ⚡ Demo application to calculate your investments.
 
+![investment-calculator-mockup](https://github.com/isabella-projects/investment-calculator/assets/76888305/74e02fd0-2c0c-4243-a5f1-d4c4b9d997ef)
+
 # 🛠 Tech Stack
 
 <div>
