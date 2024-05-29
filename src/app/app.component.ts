@@ -2,10 +2,10 @@ import { Component, Input } from '@angular/core';
 
 import { HeaderComponent } from './header/header.component';
 import { UserInputComponent } from './user-input/user-input.component';
-import { InvestmentInput } from './investment-input.model';
 import { InvestmentResultsComponent } from './investment-results/investment-results.component';
 
-import { ResultsData } from './results-data.model';
+import { type InvestmentInput } from './investment-input.model';
+import { type ResultsData } from './results-data.model';
 
 @Component({
     selector: 'app-root',
